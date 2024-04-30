@@ -1,0 +1,23 @@
+{
+  "name": "read-palletizer-excel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjsunhe/read-palletizer-excel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjsunhe/read-palletizer-excel/issues"
+  },
+  "homepage": "https://github.com/bjsunhe/read-palletizer-excel#readme",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
