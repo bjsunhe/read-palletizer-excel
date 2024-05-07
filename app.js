@@ -18,7 +18,7 @@ function readExcelFile(filePath) {
 }
 
 // Example: Replace 'path/to/your/file.xlsx' with the path to your Excel file
-const excelData = readExcelFile('../Palletizer.xlsx');
+const excelData = readExcelFile('../Palletizer-With-Size.xlsx');
 fs.writeFileSync('../Palletizer.json',JSON.stringify(excelData))
 
 // Output the JSON data
